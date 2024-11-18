@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(157, 230, 236);
+  padding-top: 100px;
+}
+form{
+  background-color: rgb(207, 242, 170);
+  padding: 25px;
+  width:35%;
+  border: 1.5px solid black;
+  border-radius: 15px;
+}
+label{
+  float: left;
+}
+#inp{
+  float: right;
+}
